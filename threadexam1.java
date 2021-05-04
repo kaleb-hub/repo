@@ -12,6 +12,11 @@ public class threadexam1 {
 			mythread t1=new mythread();
 			t1.start();
 		}
+		public void student()
+		{
+			int id=90;
+			System.out.println(id);
+		}
 		
 	}
 
