@@ -17,6 +17,7 @@ public class threadexam1 {
 			int id=90;
 			System.out.println(id);
 			System.out.println("why it doesnot work");
+			System.out.println("why it doesnot work");
 		}
 		
 	}

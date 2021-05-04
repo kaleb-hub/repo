@@ -30,6 +30,7 @@ public class counter {
 			t1.start();
 			t1.join();
 			System.out.println("counter="+c.num);
+			System.out.println("counter="+c.num);
 		}
 		}
 	
