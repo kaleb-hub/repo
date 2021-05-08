@@ -13,4 +13,5 @@ public void add()
 {
 	System.out.println("add method"+x+y);
 }
+	System.out.println("well done");
 }
