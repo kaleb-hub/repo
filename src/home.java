@@ -9,4 +9,8 @@ public void add()
 {
 	System.out.println("add method");
 }
+	public void dispaly(int x, int y)
+{
+	System.out.println("add method"+x+y);
+}
 }
